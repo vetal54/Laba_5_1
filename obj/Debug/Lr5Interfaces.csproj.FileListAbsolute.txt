@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lr5Interfaces\Lr5Interfaces\bin\Debug\Lr5Interfaces.exe.config
+C:\Users\user\source\repos\Lr5Interfaces\Lr5Interfaces\bin\Debug\Lr5Interfaces.exe
+C:\Users\user\source\repos\Lr5Interfaces\Lr5Interfaces\bin\Debug\Lr5Interfaces.pdb
+C:\Users\user\source\repos\Lr5Interfaces\Lr5Interfaces\obj\Debug\Lr5Interfaces.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lr5Interfaces\Lr5Interfaces\obj\Debug\Lr5Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lr5Interfaces\Lr5Interfaces\obj\Debug\Lr5Interfaces.exe
+C:\Users\user\source\repos\Lr5Interfaces\Lr5Interfaces\obj\Debug\Lr5Interfaces.pdb
